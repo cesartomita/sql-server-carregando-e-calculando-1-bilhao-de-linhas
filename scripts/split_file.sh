@@ -1,0 +1,1 @@
+split -l 100000000 measurements.txt measurements_part_ --additional-suffix=.txt
