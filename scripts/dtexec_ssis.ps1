@@ -1,0 +1,1 @@
+dtexec /F "C:\import-1billion-rows.dtsx" /REP V | Tee-Object -FilePath log.txt
